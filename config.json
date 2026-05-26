@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvpdate",
+        "uuid": 795720,
+        "checksum": "tc8amsr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
